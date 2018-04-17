@@ -16,5 +16,7 @@
 package application;
 
 public class Application {
+	
+	private final int counter = 2;
 
 }
